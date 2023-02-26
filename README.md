@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Muhialdeen</h1>
 
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79315&center=true&width=435&lines=I+am+Abdulrahman+Muhialdeen;Full-stack+Developer)](https://git.io/typing-svg)
-
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technorahmon&label=Profile%20views&color=0e75b6&style=flat" alt="technorahmon" /> </p>
 
