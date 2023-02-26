@@ -1,8 +1,13 @@
 <h1>Hi 👋, I'm Abdulrahman Muhialdeen</h1>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechnoRahmon&theme=monokai)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79315&width=435&lines=Full-stack+Developer)](https://git.io/typing-svg)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TechnoRahmon&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechnoRahmon&theme=monokai)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technorahmon&label=Profile%20views&color=0e75b6&style=flat" alt="technorahmon" /> </p>
 
